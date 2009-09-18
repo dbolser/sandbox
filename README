@@ -1,0 +1,13 @@
+
+
+I'm trying to 'patch' an assembly using 454 reads.
+
+The reads were mapped to the assembly using gsMapper, and the result
+was an ace file describing the positions of the reads.
+
+The ace file was processed inot a tab delimited file using the
+ace2tab.plx script.
+
+The gaps in the assembly are recorded in GFF format.
+
+
